@@ -1,4 +1,4 @@
-# Informe-tarea-
+# Informe-tarea-7
 # Universidad de las Fuerzas Armadas "ESPE"
 DESARROLLO DE LA TAREA 1 DEL TERCER PARCIAL
 Fundamentos de Circuitos Electricos
@@ -280,7 +280,8 @@ Cuando k 0.85, un 85% del flujo magnético generado en el devanado primario pasa
 
 Fallas de transformador: los devanados abiertos son las fallas más comunes, los devanados en cortocircuito son mucho menos comunes.
 
-4.
+4.Video: https://youtu.be/5OIGreeUqyU 
+
 5. Conclusiones 
 • Al tener varios materiales en el nucleo de una bobina se tiene que tener en cuenta que la inductancia es directamente proporcional a la permeabilidad del material.
 
